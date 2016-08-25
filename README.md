@@ -1,4 +1,3 @@
-# Workspace for Pioneering Brony Union Subtitle Team PBU 字幕组的工作间  
 This is the repository for Pioneering Brony Union, or PBU in short.  
 此处为 PBU 字幕组的工作 repo。
 
