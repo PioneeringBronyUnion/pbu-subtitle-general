@@ -17,7 +17,9 @@ For committers new to Git and GitHub, please read the following articles BEFORE 
 对于 Git 和 GitHub 还不熟悉的 PBU 字幕组组员，请在执行 git commit 之前阅读以下文章。
 
 **GitHub Hello World, GitHub 新手指导**
-`https://guides.github.com/activities/hello-world/`
+```
+https://guides.github.com/activities/hello-world/
+```
 Please pay special attention to the "*Step 3. Make and commit changes*" section.
 请尤其注意 "*Step 3. Make and commit changes*" 部分。
 
