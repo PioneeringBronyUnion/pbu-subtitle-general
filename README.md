@@ -11,18 +11,20 @@ For visitors, if you find any translation errors, feel free to open Issues. The 
 
 You are free to fork this repository, but please DO note that the subtitles released here are under GNU Public License.
 
-您可以对本 repo 执行 git fork 命令, 但是请注意本字幕组发布的字幕采用 GNU 公共许可。
+您可以对本 repo 执行 `git fork` 命令, 但是请注意本字幕组发布的字幕采用 GNU 公共许可。
 
 
 ## To PBU Subtitle Team Members 致 PBU 字幕组组员
 For committers new to Git and GitHub, please read the following articles BEFORE committing.
 
-对于 Git 和 GitHub 还不熟悉的 PBU 字幕组组员，请在执行 git commit 之前阅读以下文章。
+对于 Git 和 GitHub 还不熟悉的 PBU 字幕组组员，请在执行 `git commit` 之前阅读以下文章。
+
 
 **[GitHub Hello World, GitHub 新手指导] (https://guides.github.com/activities/hello-world/)**
 Please pay special attention to the "*Step 3. Make and commit changes*" section.
 
 请尤其注意 "*Step 3. Make and commit changes*" 部分。
+
 
 **[Writing on GitHub, GitHub 文本格式说明] (https://help.github.com/categories/writing-on-github/)**
 
