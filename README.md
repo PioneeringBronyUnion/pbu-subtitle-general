@@ -12,11 +12,11 @@ You are free to fork this repository, but please DO note that the subtitles rele
 For committers new to Git and GitHub, please read the following articles BEFORE committing.  
 对于 Git 和 GitHub 还不熟悉的 PBU 字幕组组员，请在执行 `git commit` 之前阅读以下文章。  
   
-[GitHub Hello World, GitHub 新手指导] (https://guides.github.com/activities/hello-world/)  
+[GitHub Hello World, GitHub 新手指导](https://guides.github.com/activities/hello-world/)  
 Please pay special attention to the "*Step 3. Make and commit changes*" section.  
 请尤其注意 "*Step 3. Make and commit changes*" 部分。
 
-[Writing on GitHub, GitHub 文本格式说明] (https://help.github.com/categories/writing-on-github/)  
+[Writing on GitHub, GitHub 文本格式说明](https://help.github.com/categories/writing-on-github/)  
 
 In case of an authorization error, please open an Issue or contact BronyDee for assistence at 403791515@qq.com.  
 若遇到权限错误，请在 Issues 里提出，或联系 BronyDee (403791515@qq.com) 解决。  
