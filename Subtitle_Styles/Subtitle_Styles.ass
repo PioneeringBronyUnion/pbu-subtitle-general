@@ -2,30 +2,31 @@
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
-
+PlayResX: 1920
+PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Applejack English,Lucida Sans,70,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,60,1
-Style: Applejack Mandarin,思源黑体 Bold,60,&H0053B4FF,&H00363655,&H000D54E6,&H7D000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,40,1
-Style: Chorus English,Lucida Sans,70,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,60,1
-Style: Chorus Mandarin,思源黑体 Bold,60,&H0044DE4C,&H00565E6D,&H00115813,&H37000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,40,1
-Style: Default,思源黑体 Bold,60,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,40,1
-Style: Default (English),Roboto Condensed,50,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,25,1
-Style: Effects (Top-Center Aligned),思源黑体 Regular,0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
-Style: Fluttershy English,Lucida Sans,70,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,60,1
-Style: Fluttershy Mandarin,思源黑体 Bold,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H7D000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,40,1
-Style: Pinkie Pie English,Lucida Sans,70,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,60,1
-Style: Pinkie Pie Mandarin,思源黑体 Bold,60,&H00DFC2F6,&H00363655,&H007F2CCD,&H7D000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,40,1
-Style: Rainbow Dash English,Lucida Sans,70,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,60,1
-Style: Rainbow Dash Mandarin,思源黑体 Bold,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H7D000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,40,1
-Style: Rarity English,Lucida Sans,60,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,70,1
-Style: Rarity Mandarin,思源黑体 Bold,60,&H00F5E6E6,&H00363655,&H00AA5361,&H7D000000,-1,0,0,0,100,100,0,0,1,3,0,2,0,0,40,1
-Style: Reference or Handwriting English,Lucida Handwriting,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,30,1
-Style: Reference or Handwriting Mandarin,华文楷体,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,40,1
+Style: Applejack English,Roboto,60,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Applejack Mandarin,思源黑体 Bold,90,&H0053B4FF,&H00363655,&H000D54E6,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Chorus English,Roboto,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Chorus Mandarin,思源黑体 Bold,90,&H0044DE4C,&H00565E6D,&H00115813,&H37000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Default,思源黑体 Bold,90,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,50,1
+Style: Effects (Top-Center Aligned),,0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: English (Handwriting),Lucida Handwriting,50,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,10,1
+Style: English Subtitle,Roboto Condensed,50,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,10,1
+Style: Fluttershy English,Roboto,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Fluttershy Mandarin,思源黑体 Bold,90,&H00B5F3F5,&H00363655,&H00B27EE7,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Handwriting Mandarin,华文楷体,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,55,1
+Style: Pinkie Pie English,Roboto,60,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Pinkie Pie Mandarin,思源黑体 Bold,90,&H00DFC2F6,&H00363655,&H007F2CCD,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Rainbow Dash English,Roboto,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Rainbow Dash Mandarin,思源黑体 Bold,90,&H00FCE5AB,&H00363655,&H00BB9C52,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Rarity English,Roboto,60,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Rarity Mandarin,思源黑体 Bold,90,&H00F5E6E6,&H00363655,&H00AA5361,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
 Style: Staff Credit,思源黑体 Regular,60,&H00FFFEFF,&H000000FF,&H00581F2D,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
-Style: Sunset Shimmer English,Lucida Sans,70,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,60,1
-Style: Sunset Shimmer Mandarin,思源黑体 Bold,60,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0,0,40,1
-Style: Twilight Sparkle English,Lucida Sans,70,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,60,1
-Style: Twilight Sparkle Mandarin,思源黑体 Bold,60,&H00D399D0,&H00565E6D,&H007B3B29,&H7D000000,-1,0,0,0,100,100,0,0,1,3,0,2,0,0,40,1
-Style: Wondercolts English,Lucida Sans,70,&H00F8DC51,&H0074642C,&H009E6621,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,60,1
-Style: Wondercolts Mandarin,思源黑体 Bold,60,&H00F8DC51,&H0074642C,&H009E6621,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0,0,40,1
+Style: Sunset Shimmer English,Roboto,60,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Sunset Shimmer Mandarin,思源黑体 Bold,90,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Twilight Sparkle English,Roboto,60,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Twilight Sparkle Mandarin,思源黑体 Bold,90,&H00D399D0,&H00565E6D,&H007B3B29,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Wondercolts English,Roboto,60,&H00F8DC51,&H0074642C,&H009E6621,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Wondercolts Mandarin,思源黑体 Bold,90,&H00F8DC51,&H0074642C,&H009E6621,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
